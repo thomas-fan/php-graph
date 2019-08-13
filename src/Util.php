@@ -7,7 +7,7 @@ namespace src;
 class Util
 {
     /**
-     * 获取一个 order x order 的二维数组，初始值默认为 0 
+     * 获取一个 order x order 的二维数组，初始值默认为 0
      * @param string $order 阶数
      * @param int $init 初始值
      * @return array
